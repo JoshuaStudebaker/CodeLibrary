@@ -1,4 +1,6 @@
-namespace Name
+using System;
+
+namespace CodeLibrary.Models
 {
   // NOTE maybe make this abstract
   // REVIEW Why was this put as public and not in the Blockbuster example?
